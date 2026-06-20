@@ -10,3 +10,5 @@ build/
 *.egg
 figures/*.png
 figures/*.pdf
+.claude/
+CLAUDE.md
